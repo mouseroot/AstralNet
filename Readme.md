@@ -5,5 +5,7 @@ Creating and publishing digital energetic links in C
 # Compiling
 
 ```
-make && ./net
+make
+make install
+./net
 ```
